@@ -65,7 +65,6 @@ Keyframes for animation*/
 #logo{
   animation-name: logo_wiggle;
   animation-duration: 3s;
-  width: 100%;
 }
 
 /* Cards! */
@@ -153,6 +152,9 @@ header{
   align-items: center;
 }
 
+header > img{
+  width: 100%;
+}
 .nav_links{
   display: flex;
   flex-direction: column;
