@@ -153,9 +153,6 @@ header{
   align-items: center;
 }
 
-header > img{
-  width: 100%;
-}
 .nav_links{
   display: flex;
   flex-direction: column;
