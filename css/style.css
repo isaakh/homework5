@@ -65,6 +65,7 @@ Keyframes for animation*/
 #logo{
   animation-name: logo_wiggle;
   animation-duration: 3s;
+  width: 100%;
 }
 
 /* Cards! */
