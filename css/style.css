@@ -229,4 +229,7 @@ header{
     -webkit-transition: none;
     transition: none;
   }
+  #logo{
+    animation: none;
+  }
 }
